@@ -1,2 +1,2 @@
-this is a test file!½:wq
+this is some more text this is a test file!½:wq
 ½
