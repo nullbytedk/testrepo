@@ -1,2 +1,1 @@
-this is some more text this is a test file!½:wq
-½
+This is gibberish, i corrected it for you...
